@@ -1,7 +1,6 @@
 # Procesamiento de Lenguaje Natural
 
 **Curso tomado para el SISI 2024**
-
 | Título        | Clase         | Ejercicios | Video
 |:--------------------|:--------------------:|:--------------------:|:--------------------
 | Introducción | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/institutohumai/cursos-python/blob/master/NLP/1_Introduccion/Introduccion.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/institutohumai/cursos-python/blob/master/NLP/1_Introduccion/ejercicios/ejercicios.ipynb) | [Video](https://youtu.be/Ro3zbJ53G-U) |
@@ -11,7 +10,6 @@
 | Atención | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/institutohumai/cursos-python/blob/master/NLP/5_Atencion/Atencion.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/institutohumai/cursos-python/blob/master/NLP/5_Atencion/ejercicios/ejercicios.ipynb) | [Video](https://youtu.be/p5SxjpSbeqY) |
 | Transformers | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/institutohumai/cursos-python/blob/master/NLP/6_Transformers/1_Transformers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/institutohumai/cursos-python/blob/master/NLP/6_Transformers/2_Implementacion.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/institutohumai/cursos-python/blob/master/NLP/6_Transformers/ejercicios/ejercicios.ipynb) | [Video 1](https://youtu.be/7i6GsPqw3Fk) [Video 2](https://youtu.be/gTFare2t04w)|
 | BERT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/institutohumai/cursos-python/blob/master/NLP/7_BERT/BERT.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/institutohumai/cursos-python/blob/master/NLP/7_BERT/ejercicios/ejercicios.ipynb) | [Video](https://youtu.be/IRtHuwSPaGo)|
-
 
 
 
